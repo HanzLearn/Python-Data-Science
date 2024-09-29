@@ -21,4 +21,6 @@ plt.legend()
 
 plt.show()
 
+print ('testing also')
+
 
